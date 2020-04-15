@@ -1,0 +1,30 @@
+#sidebar {
+
+    background-color: #2d3436;
+    position: fixed;
+
+    width: 250px;
+    height: 100%;
+
+}
+
+#sidebar a {
+
+    color: #dfe6e9;
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: center;
+    display: block;
+
+    padding: 10px;
+
+}
+
+#sidebar a:hover {
+
+    background-color: #00b894;
+    color: white;
+
+}
