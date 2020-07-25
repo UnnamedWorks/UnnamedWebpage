@@ -1,3 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Rubik", sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #181d1f;
+}
+
 #head {
     display: flex;
     justify-content: flex-start;
