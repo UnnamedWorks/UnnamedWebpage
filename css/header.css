@@ -5,12 +5,14 @@
 }
 
 header {
-    background: #181d1f;
     display: flex;
     justify-content: flex-end;
     align-items: center;
     padding: 15px 10%;
     border-bottom: solid 1px #ff8df5;
+    position: fixed;
+    width: 100%;
+    height: 80px;
 }
 
 header li, header a {
@@ -38,16 +40,7 @@ header li, header a {
     color: #ff8df5;
 }
 
-#header__github {
+.header__github {
     margin: 0 20px;
     padding: 9px 25px;
-    background-color: #ff8df5;
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: all 0.3s ease 0s;
-}
-
-#header__github:hover {
-    background-color: #d553ca;
 }
