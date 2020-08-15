@@ -1,0 +1,11 @@
+team.unnamed.gui
+team.unnamed.gui.api.event
+team.unnamed.gui.api.item
+team.unnamed.gui.api.menu
+team.unnamed.gui.api.menu.action
+team.unnamed.gui.item
+team.unnamed.gui.item.lore
+team.unnamed.gui.item.type
+team.unnamed.gui.item.type.attributes
+team.unnamed.gui.menu
+team.unnamed.gui.menu.factory
