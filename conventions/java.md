@@ -31,6 +31,7 @@ It's very important to use only one line per statement.
 
 ### 4.1 Some restrictions
 - A comma should not be separated from the word that precedes it.
+
 ```java
 void doSomething(
     Example param
@@ -41,6 +42,7 @@ void doSomething(
 ```
 
 - A lambda arrow (`->`) should not be separated from its parameters.
+
 ```java
 Consumer<Thing> consumer = thing -> // <--- Ok!
     {...};
